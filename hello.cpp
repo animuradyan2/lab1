@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     double a, b;
 
-    cout << "Մուտքագրեք առաջին թիվը: ";
+    cout << "Մուտքագրեք աաջին թիվը: ";
     cin >> a;
 
     cout << "Մուտքագրեք երկրորդ թիվը: ";
