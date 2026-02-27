@@ -10,9 +10,22 @@ int main() {
     cout << "Մուտքագրեք երկրորդ թիվը: ";
     cin >> b;
 
-    double sum = a + b;
+mnbviouble sum = a - b;
 
     cout << "Գումարը հավասար է: " << sum << endl;
 
     return 0;
-}
+}	
+
+
+
+
+
+
+
+
+
+
+
+
+
